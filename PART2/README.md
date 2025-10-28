@@ -80,6 +80,6 @@ node part2_verification/redos_test.js | tee part2_verification/logs/redos_output
 
 
 
-### Final note (one line)
+### Final note
 
 From the tests you ran (function PoC up to ~1.8M chars and wrapper run with no DETECT logs), the dependency is vulnerable in principle but we did not demonstrate a practical ReDoS exploit path in this Juice Shop checkout — still, upgrade to eliminate the risk.
